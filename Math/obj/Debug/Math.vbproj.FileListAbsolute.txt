@@ -1,0 +1,39 @@
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\bin\Debug\Math.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\bin\Debug\Math.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\bin\Debug\Math.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.Main.resources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.Resources.resources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\Math\obj\Debug\Math.pdb
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.exe
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.xml
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.pdb
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.DataPrompt.resources
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.Main.resources
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.Resources.resources
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon\My Documents\Math\Math\bin\Debug\Math.exe
+C:\Documents and Settings\Simon\My Documents\Math\Math\bin\Debug\Math.pdb
+C:\Documents and Settings\Simon\My Documents\Math\Math\bin\Debug\Math.xml
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.About.resources
+C:\Documents and Settings\Simon\My Documents\Math\Math\obj\Debug\Math.SplashScreen.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.exe
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.xml
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.pdb
+E:\Documents\Programming\VB Projects\Math\Math\bin\Debug\Math.exe
+E:\Documents\Programming\VB Projects\Math\Math\bin\Debug\Math.pdb
+E:\Documents\Programming\VB Projects\Math\Math\bin\Debug\Math.xml
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.About.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.DataPrompt.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.SplashScreen.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.Main.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.Resources.resources
+E:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.vbproj.GenerateResource.Cache
+G:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.exe
+G:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.xml
+G:\Documents\Programming\VB Projects\Math\Math\obj\Debug\Math.pdb

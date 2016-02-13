@@ -1,0 +1,22 @@
+﻿<UserCombinePreferences version="1.0" filename="/media/OMNI-DRIVE/Documents/Fun/Programming/VB Projects/Math/Math/Math.mds">
+  <Files>
+    <File name="main.vb" line="1" column="1" />
+    <File name="main.Designer.vb" line="5" column="23" />
+  </Files>
+  <Views>
+    <ViewMemento id="ProjectPad">
+      <Node expanded="True">
+        <Node name="Math" expanded="True">
+          <Node name="main.Designer.vb" selected="True" />
+        </Node>
+      </Node>
+    </ViewMemento>
+    <ViewMemento id="ClassPad">
+      <Node expanded="True" />
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Property key="ActiveWindow" value="/media/OMNI-DRIVE/Documents/Fun/Programming/VB Projects/Math/Math/main.Designer.vb" />
+    <Property key="ActiveConfiguration" value="Release|Any CPU" />
+  </Properties>
+</UserCombinePreferences>

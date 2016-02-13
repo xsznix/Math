@@ -1,0 +1,16 @@
+<Combine name="Math" fileversion="2.0">
+  <Configurations active="Debug|Any CPU">
+    <Configuration name="Debug|Any CPU" ctype="CombineConfiguration">
+      <Entry build="True" name="Math" configuration="Debug|Any CPU" />
+    </Configuration>
+    <Configuration name="Release|Any CPU" ctype="CombineConfiguration">
+      <Entry build="True" name="Math" configuration="Release|Any CPU" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Math" single="True">
+    <Execute type="None" entry="Math" />
+  </StartMode>
+  <Entries>
+    <Entry filename="Math.vbproj" />
+  </Entries>
+</Combine>
